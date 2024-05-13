@@ -1,0 +1,45 @@
+body {
+    /* font-family: Arial, sans-serif; */
+    font-family: "Poppins", sans-serif;
+}
+
+.jumbotron {
+  background-color: #f8f9fa;
+  padding: 2rem 1rem;
+}
+
+section {
+  padding: 1rem 0;
+}
+
+form .btn {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+
+.speaker {
+    margin-bottom: 20px;
+}
+
+.speaker img {
+    width: 100%;
+    height: auto;
+    max-width: 300px;
+    max-height: 300px;
+    border-radius: 5px;
+}
+
+.speaker-title {
+    font-size: 18px;
+    text-align: center;
+    color: #333;
+    margin-top: 5px;
+}
+
+.speaker-job-title {
+    font-size: 16px;
+    text-align: center;
+    color: #666;
+    margin-top: -15px;
+}
